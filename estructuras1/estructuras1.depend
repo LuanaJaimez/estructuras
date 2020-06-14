@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1589250088 source:c:\users\luana\desktop\workspace\estructuras1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"comida.h"
+	"almuerzo.h"
+
+1589334089 c:\users\luana\desktop\workspace\estructuras1\datawarehouse.h
+
+1589251113 c:\users\luana\desktop\workspace\estructuras1\empleado.h
+	"sector.h"
+
+1589172000 c:\users\luana\desktop\workspace\estructuras1\sector.h
+
+1589172018 source:c:\users\luana\desktop\workspace\estructuras1\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1589250722 source:c:\users\luana\desktop\workspace\estructuras1\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"dataWarehouse.h"
+
+1589249415 source:c:\users\luana\desktop\workspace\estructuras1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+
+1589249567 c:\users\luana\desktop\workspace\estructuras1\informes.h
+
+1589250770 source:c:\users\luana\desktop\workspace\estructuras1\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+
+1589250777 source:c:\users\luana\desktop\workspace\estructuras1\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comida.h"
+
+1589203955 c:\users\luana\desktop\workspace\estructuras1\comida.h
+
+1589250555 c:\users\luana\desktop\workspace\estructuras1\almuerzo.h
+	"empleado.h"
+	"sector.h"
+	"comida.h"
+
